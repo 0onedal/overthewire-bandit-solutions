@@ -10,6 +10,6 @@ The password for the next level is stored in a file called readme located in the
 - ```$ cat``` command
 
 ## 📝 Steps:
-1. Connect using SSH:
-```$ ssh  bandit0@bandit.labs.overthewire.org -p 2220 ```
+1. Connect using SSH:  
+```$ ssh  bandit0@bandit.labs.overthewire.org -p 2220 ```  
 ```password is : bandit0```
